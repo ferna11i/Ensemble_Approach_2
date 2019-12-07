@@ -1,6 +1,4 @@
 Models/bagging_svm_rbf_1.joblib
-Models/logistic_regression_1.joblib
 Models/knn_1.joblib
-Models/naive_bayes_1.joblib
 Models/random_forest_1.joblib
 Models/decision_tree_1.joblib
