@@ -2,3 +2,7 @@ Models/bagging_svm_rbf_1.joblib
 Models/knn_1.joblib
 Models/random_forest_1.joblib
 Models/decision_tree_1.joblib
+
+
+Data/fashion-mnist_train.csv
+Data/fashion-mnist_test.csv

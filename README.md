@@ -5,7 +5,16 @@ The contents of this repo are as follows:
 1. Images folder: contains images of result tables and confusion matrices of some of the experiments
 
 2. Data folder:
-
+	1. Data.zip 
+		fashion_mnist_train.csv and fashion_mnist_test.csv are two large files zipped in this zip file.
+	2. fold_acc_boruta_2.csv : Accuracies per fold by each model when cross validation is used on training data
+	3. fold_pred_boruta_2.csv : Predictions of each model on each sample of the training data achieved through cross validation
+	4. fold_boruta_pred_prob_1.csv : Predictions as probabilities of each model on each sample of the training data 
+	5. val_pred_boruta_3.csv : Predictions of each model on the test data
+	6. val_pred_prob_boruta_1.csv : Predictions as probabilities of each model on the test data
+ 	
+3. Models folder: The random forest, knn and svm are big models and hence you will find them in zip files
+Logistic regression, Naive Bayes and Decision Trees are lighter 
 
 2. Fashion MNIST models (Boruta wrapper).ipynb
 This python note book contains most of the code. Here is a list of sections within the notebook. 
