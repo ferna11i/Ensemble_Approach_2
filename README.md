@@ -4,6 +4,9 @@ The contents of this repo are as follows:
 
 1. Images folder: contains images of result tables and confusion matrices of some of the experiments
 
+2. Data folder:
+
+
 2. Fashion MNIST models (Boruta wrapper).ipynb
 This python note book contains most of the code. Here is a list of sections within the notebook. 
 	1. Data preprocessing
